@@ -1,4 +1,4 @@
-#_ORGANISATIONAL NEWS PORTAL_
+# ORGANISATIONAL NEWS PORTAL
 
 #### _Web app that allows any user to post news post ._
 
